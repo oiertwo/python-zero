@@ -7,4 +7,4 @@ I want to create a list of libraries that have a "zero" version, contributions a
 
 # PY-ZERO-ZERO
 
-They are collecting the list too: [PY-ZERO-ZERO] (https://github.com/py-zerozero/zerozero)
+They are collecting the list too: [PY-ZERO-ZERO](https://github.com/py-zerozero/zerozero)
